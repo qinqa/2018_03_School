@@ -1,0 +1,3 @@
+suomi;etela-korea;8;1
+norja;latvia;2;2
+suomi;latvia;8;1

@@ -1,0 +1,4 @@
+joukkue1;joukkue2;1;1
+joukkue3;joukkue4;2;1
+joukkue2;joukkue3;1;3
+joukkue4;joukkue1;2;1
